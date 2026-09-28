@@ -1,0 +1,8 @@
+{
+  "name": "Ayurvedic Holistic Wellness",
+  "description": "Mindful apothecary, interactive dosha diagnostics, and clinical botanical formulations rooted in classical Ayurvedic wisdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
